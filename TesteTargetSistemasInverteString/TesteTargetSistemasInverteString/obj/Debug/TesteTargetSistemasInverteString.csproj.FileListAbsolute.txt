@@ -1,0 +1,6 @@
+C:\Users\Valorant\source\repos\TesteTargetSistemasInverteString\bin\Debug\TesteTargetSistemasInverteString.exe.config
+C:\Users\Valorant\source\repos\TesteTargetSistemasInverteString\bin\Debug\TesteTargetSistemasInverteString.exe
+C:\Users\Valorant\source\repos\TesteTargetSistemasInverteString\bin\Debug\TesteTargetSistemasInverteString.pdb
+C:\Users\Valorant\source\repos\TesteTargetSistemasInverteString\obj\Debug\TesteTargetSistemasInverteString.csprojAssemblyReference.cache
+C:\Users\Valorant\source\repos\TesteTargetSistemasInverteString\obj\Debug\TesteTargetSistemasInverteString.exe
+C:\Users\Valorant\source\repos\TesteTargetSistemasInverteString\obj\Debug\TesteTargetSistemasInverteString.pdb

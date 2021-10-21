@@ -1,0 +1,6 @@
+C:\Users\Valorant\source\repos\TesteTargetSistemasFaturamentoEstado\bin\Debug\TesteTargetSistemasFaturamentoEstado.exe.config
+C:\Users\Valorant\source\repos\TesteTargetSistemasFaturamentoEstado\bin\Debug\TesteTargetSistemasFaturamentoEstado.exe
+C:\Users\Valorant\source\repos\TesteTargetSistemasFaturamentoEstado\bin\Debug\TesteTargetSistemasFaturamentoEstado.pdb
+C:\Users\Valorant\source\repos\TesteTargetSistemasFaturamentoEstado\obj\Debug\TesteTargetSistemasFaturamentoEstado.csprojAssemblyReference.cache
+C:\Users\Valorant\source\repos\TesteTargetSistemasFaturamentoEstado\obj\Debug\TesteTargetSistemasFaturamentoEstado.exe
+C:\Users\Valorant\source\repos\TesteTargetSistemasFaturamentoEstado\obj\Debug\TesteTargetSistemasFaturamentoEstado.pdb

@@ -1,0 +1,10 @@
+C:\Users\Valorant\source\repos\TesteTargetSistemaJSON\bin\Debug\TesteTargetSistemaJSON.exe.config
+C:\Users\Valorant\source\repos\TesteTargetSistemaJSON\bin\Debug\TesteTargetSistemaJSON.exe
+C:\Users\Valorant\source\repos\TesteTargetSistemaJSON\bin\Debug\TesteTargetSistemaJSON.pdb
+C:\Users\Valorant\source\repos\TesteTargetSistemaJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Valorant\source\repos\TesteTargetSistemaJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Valorant\source\repos\TesteTargetSistemaJSON\obj\Debug\TesteTargetSistemaJSON.csprojAssemblyReference.cache
+C:\Users\Valorant\source\repos\TesteTargetSistemaJSON\obj\Debug\TesteTargetSistemaJSON.csproj.CopyComplete
+C:\Users\Valorant\source\repos\TesteTargetSistemaJSON\obj\Debug\TesteTargetSistemaJSON.exe
+C:\Users\Valorant\source\repos\TesteTargetSistemaJSON\obj\Debug\TesteTargetSistemaJSON.pdb
+C:\Users\Valorant\source\repos\TesteTargetSistemaJSON\bin\Debug\Dados.json

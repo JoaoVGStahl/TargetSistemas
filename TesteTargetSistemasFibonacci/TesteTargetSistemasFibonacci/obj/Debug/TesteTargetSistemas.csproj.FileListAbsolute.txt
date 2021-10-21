@@ -1,0 +1,6 @@
+C:\Users\Valorant\source\repos\TesteTargetSistemas\bin\Debug\TesteTargetSistemas.exe.config
+C:\Users\Valorant\source\repos\TesteTargetSistemas\bin\Debug\TesteTargetSistemas.exe
+C:\Users\Valorant\source\repos\TesteTargetSistemas\bin\Debug\TesteTargetSistemas.pdb
+C:\Users\Valorant\source\repos\TesteTargetSistemas\obj\Debug\TesteTargetSistemas.csprojAssemblyReference.cache
+C:\Users\Valorant\source\repos\TesteTargetSistemas\obj\Debug\TesteTargetSistemas.exe
+C:\Users\Valorant\source\repos\TesteTargetSistemas\obj\Debug\TesteTargetSistemas.pdb
